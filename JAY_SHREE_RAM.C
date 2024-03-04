@@ -10,32 +10,31 @@
 int main ()
 {             
 	 int size = 6;
-          printpatternJ(size);
-          printf("\n");                                                                                               
-          printpatternA(size);
-          printf("\n");
-          printpatternY(size);
+         printpatternJ(size);
+         printf("\n");                                                                                               
+         printpatternA(size);
+         printf("\n");
+         printpatternY(size);
 
-          printf("\n");
-          printf("\n");
-
+         printf("\n");
+         printf("\n");
 
          printpatternS(size);
          printf("\n");
-        printpatternH(size);
+         printpatternH(size);
          printf("\n");
          printpatternR(size);
          printf("\n");
-        printpatternE(size);
-        printf("\n");
-        printpatternE(size);
-        printf("\n");
+         printpatternE(size);
+         printf("\n");
+         printpatternE(size);
+         printf("\n");
 
-        printf("\n");
-        printpatternR (size);
-        printf("\n");
-        printpatternA(size);
-        printf("\n");
-        printpatternM(size);
+         printf("\n");
+         printpatternR (size);
+         printf("\n");
+         printpatternA(size);
+         printf("\n");
+         printpatternM(size);
 
 }
